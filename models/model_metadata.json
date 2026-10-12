@@ -1,0 +1,29 @@
+{
+    "model_type": "DecisionTreeClassifier",
+    "feature_names": [
+        "study_hours",
+        "attendance_percentage",
+        "previous_exam_score",
+        "assignment_completion_percentage"
+    ],
+    "class_labels": [
+        "Low",
+        "Medium",
+        "High"
+    ],
+    "hyperparameters": {
+        "criterion": "gini",
+        "max_depth": 4,
+        "min_samples_split": 5,
+        "min_samples_leaf": 3,
+        "random_state": 42
+    },
+    "test_accuracy": 0.76,
+    "dataset_info": {
+        "file_path": "data\\student_performance.csv",
+        "total_samples": 500,
+        "train_samples": 400,
+        "test_samples": 100,
+        "disclaimer": "Synthetic demonstration data generated for academic case study purposes."
+    }
+}
