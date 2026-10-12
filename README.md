@@ -27,7 +27,6 @@
 - [Dataset Description](#-dataset-description)
 - [Project Structure](#-project-structure)
 - [Model Evaluation](#-model-evaluation)
-- [Application Screenshots](#-application-screenshots)
 - [Installation and Setup](#-installation-and-setup)
 - [How to Use the Application](#-how-to-use-the-application)
 - [Sample Output](#-sample-output)
